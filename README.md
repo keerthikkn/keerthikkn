@@ -3,7 +3,6 @@
 I am a Data Scientist with a background in mechanical engineering,
 currently focusing on securing a career in AI/ML domain.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a computer vision project
 - 🌱 I’m currently learning spark, DL
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
  </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/keerthikkn/keerthikkn/assets/42544473/9ec7fc14-f87a-43f9-bf11-8489243d5e04" alt="MySQL" width="40" height="40"/> 
+</a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/> 
 </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/keerthikkn/keerthikkn/assets/42544473/8da340dd-7a06-4328-bade-1bcc6eabaacf" alt="pandas" width="40" height="40"/> 
 </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
