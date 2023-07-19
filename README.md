@@ -4,9 +4,9 @@ I am a Data Scientist with a background in mechanical engineering,
 currently focusing on securing a career in AI/ML domain.
 
 
-- 🔭 I’m currently working on a computer vision project
-- 🌱 I’m currently learning spark, DL
-- 👯 I’m looking to collaborate on AI/ML projects.
+- 🔭 I’m working on a computer vision project right now.
+- 🌱 I’m currently learning spark, Hadoop, Azure
+- 👯 actively looking for collaboration on AI/ML projects.
 
 
 <h3 align="left">Languages and Tools:</h3>
