@@ -1,12 +1,13 @@
 ### Hi I am Keerthi Kumar 👋
 
-I am a Data Scientist with a background in mechanical engineering,
+I am a Data Scientist, Kaggle contributor, mechanical engineer and much more.
 currently focusing on securing a career in AI/ML domain.
 
 
 - 🔭 I’m working on a computer vision project right now.
-- 🌱 I’m currently learning spark, Hadoop, Azure
+- 🌱 I’m currently learning spark, Hadoop, Azure.
 - 👯 actively looking for collaboration on AI/ML projects.
+- 🔍 find me on [LinkedIn](https://www.linkedin.com/in/keerthi-kumar-niranjan).
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,3 +22,6 @@ currently focusing on securing a career in AI/ML domain.
 </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 </a> </p>
 
+<p align="center"><samp>
+⬇️ Check out my repos ⬇️  
+  </samp>
