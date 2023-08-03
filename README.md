@@ -3,12 +3,12 @@
 
 welcome to my Github!
 
-I am a Data Scientist, Kaggle contributor, Mechanical Engineer, Open Source Contributor.
+I am a Data Scientist, Kaggle contributor, Mechanical Engineer, and Open Source Contributor.
 currently focusing on securing a career in AI/ML domain.
 
 
 - 🔭 I’m working on a computer vision project.
-- 🌱 I’m currently learning spark, Hadoop, Azure.
+- 🌱 I’m currently learning Spark, Hadoop, and Azure.
 - 👯 actively looking for collaboration on AI/ML projects.
 - 🔍 find me on [LinkedIn](https://www.linkedin.com/in/keerthi-kumar-niranjan), [Kaggle](https://www.kaggle.com/keerthi4701).
 
